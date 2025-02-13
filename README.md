@@ -25,7 +25,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image](https://raw.githubusercontent.com/German-D/Python-Pytest-Requests/main/static/pytest-api.png)
+![image](https://sun9-3.userapi.com/s/v1/ig2/IHR0GuBqXh3_d7NoIUwHQzlqc0XeNYoEgUpbMhY4TLqPPPiZ1PbsoHt15VQ4NoypKDu-V3tX1jJzhXCgAywIG3LO.jpg?quality=95&as=32x17,48x26,72x39,108x58,160x87,240x130,360x195,480x260,540x292,640x347,720x390,1080x585,1280x693,1440x780,1920x1040&from=bu&u=Q2N8w4bFoB6QBf-3ziuXpyH3b1I4XduDFvNHIdKZiDg&cs=1920x1040)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
